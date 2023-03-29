@@ -1,3 +1,7 @@
-'''Функция для перевода в верхний регистр'''
+'''функции работы со строками'''
+
 def wordsup (str):
     return str.upper()
+
+def title_words (str):
+    return str.title()
